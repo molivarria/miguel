@@ -1,0 +1,26 @@
+.head {
+
+	background: white !important;
+	border-color: white !important;
+
+}
+.head h1 {
+
+	color: #D972E9;
+
+}
+.back {
+	background-image: linear-gradient(to right top, #d65db1, #bc6aca, #9a77dc, #6b83e8, #128deb) !important;
+}
+.con {
+	width: 100% !important;
+	height: auto !important;
+	background-color: white !important;
+	border-radius: 15px;
+
+}
+.butom {
+
+	background: #7277E9 !important;
+	border-color: #7277E9 !important;
+}

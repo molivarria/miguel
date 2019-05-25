@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+    xmlns:gap = "http://phonegap.com/ns/1.0"
+    id        = "com.phonegap.malp"
+    version   = "1.0.0">
+
+<name>Agenda de Servicios
+    </name>
+
+<description>
+Servicios
+</description>
+
+<author href="" email="">
+miguel angel lopez perez
+</author>
+
+
+<plugin name="cordova-plugin-dialogs" spec="~1.3.3" />
+    <icon src="images/servicios.png" gap:platform="android" gap:density="hdpi" />
+<plugin name="cordova-plugin-inappbrowser" spec="~3.0.0" />
+
+
+
+</widget>
